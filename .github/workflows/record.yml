@@ -31,7 +31,7 @@ jobs:
       fail-fast: false
       matrix:
         target:
-          - "@nihaanbhattagainn|UC7fUm_Vc21j2Njra8VUHiaA"
+          - "@Sen|UCkvW_7kp9LJrztmgA4q4bJQ"
 
     steps:
       - name: Checkout Repository
